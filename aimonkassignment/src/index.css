@@ -1,0 +1,23 @@
+.tag{
+  background-color:grey;
+  color: azure;
+border: 1px solid blue;
+z-index: -1;
+ box-sizing: border-box;
+ justify-content: center;
+ border-radius: 25px;
+ 
+
+
+
+}
+.tag-header{
+  
+ margin: 12px;
+  margin-bottom: 23px;
+  justify-content: space-between;
+  width: 50%;
+  height: 50%; 
+ 
+}
+ 
